@@ -1,0 +1,24 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Database
+chroma_db/
+
+# Uploaded documents
+uploaded_docs/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+sample.pdf
+streamlit_practise.py
+streamlit_practice.py
+tempCodeRunnerFile.py
